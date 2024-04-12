@@ -135,6 +135,7 @@ HardlessMachine (RC-26) 弹跳工具 | TheSmileCat | <details><summary>展开</s
 VillagerTrade (RC-33) 村民交易 | ybw0014 | <details><summary>展开</summary>（国产）该附属支持将粘液科技物品添加到村民/流浪商人的交易中</details> | N/A | [官方版](https://github.com/ybw0014/VillagerTrade) | [官方版](https://github.com/ybw0014/VillagerTrade)
 FastMachines 快捷机器 | ybw0014 | <details><summary>展开</summary>该附属将乱序技艺的快捷机器玩法提取出来做成一个单独的附属。快捷机器可以批量制作物品，且不需要按顺序摆放配方物品。</details> | [官方版介绍](https://github.com/ybw0014/FastMachines#readme) | [官方版](https://github.com/ybw0014/FastMachines) | [官方版](https://thebusybiscuit.github.io/builds/ybw0014/FastMachines/master/) （自带中文） / [备用下载](https://builds.guizhanss.com/ybw0014/FastMachines/master)
 RykenSlimeCustomizer Ryken自定义附属 | lijinhong11(mmmjjkx) | <details><summary>展开</summary>（国产）一款比较有更多自定义性的自定义附属，有比SC更多可自定义的东西</details> | [Wiki](https://boxueduocai.gitbook.io/rykenslimecustomizer) | [官方版](https://github.com/SlimefunReloadingProject/RykenSlimeCustomizer) | [官方版](https://github.com/SlimefunReloadingProject/RykenSlimeCustomizer)
+MomoTech 乱码科技(陌陌科技) | QYhB05 | <details><summary>展开</summary> 该附属添加了一些机器和实用的前期工具/生成器。 </datails> | N/A | [官方版](https://github.com/QYhB05/MomoTech) | [官方版](https://github.com/QYhB05/MomoTech/tree/main/jar)
 
 ### :anchor: 自定义粘液附属 :id=slime-customizer-addons
 
@@ -158,6 +159,7 @@ DefoLiationTech 落叶科技 | lyen | <details><summary>展开</summary>添加�
 BocchiTechnology 波奇科技 | yigexu | <details><summary>展开</summary>添加了一系列机器到粘液书中 </details> | N/A | [官方版](https://github.com/bocchiyigexu/Bocchi_Technology) | [官方版](https://github.com/bocchiyigexu/Bocchi_Technology)
 HiWorldOreTech 矿物科技 | HiTech0926 | <details><summary>展开</summary>让原版矿物变得更加有用，同时也增加了一些新的矿物获取方式 </details> | [更多信息](https://github.com/HiTech0926/HiWorldOreTech#readme) | [官方版](https://github.com/HiTech0926/HiWorldOreTech) | [官方版](https://github.com/HiTech0926/HiWorldOreTech)
 HLGtech 生物科技 | yigexu | <details><summary>展开</summary>将至尊的难度降低了一些，同时增加机器 </details> | N/A | [官方版](https://github.com/bocchiyigexu/SHENGWUTECH) | [官方版](https://github.com/bocchiyigexu/SHENGWUTECH)
+InfiniteExtensionV2-Reconfiguration 无尽扩展v2-重构版| zhkAZ | <details><summary>展开</summary>在摆烂鸽的基础上添加了可以自动化无尽的机器 </details> | N/A | [官方版](https://github.com/LuoYe5555/InfiniteExtensionV2-Reconfiguration) | [官方版](https://github.com/LuoYe5555/InfiniteExtensionV2-Reconfiguration)
 
 ### :wrench: 功能性插件 :id=functional-addons
 
